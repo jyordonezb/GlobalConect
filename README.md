@@ -1,2 +1,0 @@
-# GlobalConect
-Desarrollo Pagina-web
